@@ -39,11 +39,11 @@ With over 8 years of experience in full stack web development, I specialize in b
 </a>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnoori&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnoori&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinnoori&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide_border=false&bg_color=1F222E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinnoori&show_icons=true&locale=en&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=yasinnoori&theme=monokai-metallian&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinnoori&show_icons=true&theme=monokai-metallian&bg_color=1F222E" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=yasinnoori&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinnoori&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
