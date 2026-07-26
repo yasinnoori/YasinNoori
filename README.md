@@ -6,7 +6,7 @@
 
 🔧 **Senior Full Stack Software Engineer | Laravel Expert | DevOps Enthusiast**
 
-With over 8 years of experience in full stack web development, I specialize in building scalable, maintainable, and high-performance web applications using modern open-source technologies.
+With over 9 years of experience in full stack web development, I specialize in building scalable, maintainable, and high-performance web applications using modern open-source technologies.
 
 ---
 
@@ -17,7 +17,8 @@ With over 8 years of experience in full stack web development, I specialize in b
 - Skilled in **DevOps**, **CI/CD**, **Software Architecture**, and **Backend Optimization**
 - Passionate about clean code, performance, and solving real-world problems
 - Exploring: **Svelte**, **Java**, **Python**, and advanced **software architecture patterns**
-- Currently building a **Financial Management Information System including; Budgeting, Budget Transfers, Budget Commitments, Budget Expenses in Governmental Organizations**
+- Currently building a **Revenue Management System integrating in Finance Budgeting System in Governmental Organizations**
+- Learning MSc. AI at Afghan Islamic International University.
 
 ---
 
