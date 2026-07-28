@@ -18,7 +18,7 @@ With over 9 years of experience in full stack web development, I specialize in b
 - Passionate about clean code, performance, and solving real-world problems
 - Exploring: **Svelte**, **Java**, **Python**, and advanced **software architecture patterns**
 - Currently building a **Revenue Management System integrating in Finance Budgeting System in Governmental Organizations**
-- Studying MSc. AI at Afghan Islamic International University.
+- Studying MSc. AI at Afghan International Islamic University.
 
 ---
 
